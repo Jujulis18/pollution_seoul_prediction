@@ -1,0 +1,38 @@
+# Interface
+streamlit>=1.38.0
+Pillow>=10.0.0
+
+# Traitement d'images
+opencv-python>=4.8.1
+
+# NLP / traitement de texte de base
+pandas>=2.0.0
+numpy>=1.25.0
+
+# Optionnel mais utile (simulation NLP, vectorisation, etc.)
+scikit-learn>=1.5.0
+torch==2.6.0
+torchvision==0.21.0
+transformers>=4.40.0
+ultralytics>=8.0.136  # pour YOLOv8
+faiss-cpu>=1.7.4
+sentence-transformers>=3.0.0
+langchain>=0.1.0
+
+
+# Pour la recherche sémantique locale ou RAG
+faiss-cpu>=1.8.0
+
+# Google Cloud SDK
+google-cloud-aiplatform>=1.68.0
+google-cloud-storage>=2.17.0
+google-cloud-vision>=3.6.0
+google-cloud-language>=2.13.0
+google-cloud-speech>=2.26.0
+google-cloud-texttospeech>=2.16.0
+google-cloud-translate>=3.16.0
+
+python-dotenv>=1.0.1      # si tu veux gérer les clés via .env
+openai>=1.46.0            # si tu veux comparer avec OpenAI
+requests>=2.31.0          # pour appels API génériques
+tqdm>=4.66.0              # pour barres de progression

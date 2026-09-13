@@ -1,0 +1,36 @@
+
+Rapport annuel 2024 — Ville Intelligente de Paris
+
+Introduction
+L’année 2024 a marqué une étape clé dans la stratégie de transformation numérique et environnementale de la Ville de Paris. Ce rapport présente les principaux indicateurs de performance (KPI) relatifs à la qualité de vie, à la durabilité et à la participation citoyenne. L’objectif est de mesurer les progrès accomplis dans la transition vers une ville plus intelligente, connectée et écologique.
+
+1. Mobilité et Transports
+Le développement des mobilités durables demeure une priorité. Le taux d’utilisation des transports en commun a atteint 68 %, contre 63 % en 2023, soit une hausse de 5 points. Le réseau de pistes cyclables a été étendu de 120 km supplémentaires, portant le total à 1 340 km. En parallèle, l’usage des véhicules individuels a diminué de 8 %, tandis que le taux d’adoption des véhicules électriques atteint désormais 24 % du parc total. 
+La moyenne des trajets domicile-travail a été réduite de 6 minutes, passant de 42 à 36 minutes. Le déploiement de 450 bornes de recharge rapide a contribué à cette amélioration.
+
+2. Environnement et Qualité de l’air
+La qualité de l’air s’est améliorée pour la deuxième année consécutive. Les concentrations de particules fines PM2.5 ont baissé de 12 % et celles de NO₂ de 9 %. Le taux de jours avec un air “bon” selon Airparif est passé de 62 % à 71 %. Les émissions de CO₂ liées à la mobilité urbaine ont diminué de 6 200 tonnes sur un an, ce qui représente une réduction de 4,5 %.
+Par ailleurs, le programme “Paris Vert” a permis la plantation de 18 000 arbres supplémentaires et la création de 35 hectares d’espaces verts depuis janvier 2024.
+
+3. Énergie et Infrastructures
+La consommation énergétique globale des bâtiments publics a reculé de 8 %, notamment grâce à la rénovation thermique de 150 écoles et mairies d’arrondissement. Le taux de bâtiments connectés à un système de monitoring énergétique atteint désormais 78 %.
+La production locale d’énergie renouvelable a progressé de 22 % sur un an, avec 340 nouvelles installations photovoltaïques et 12 mini-stations géothermiques. 
+La consommation électrique moyenne par foyer s’établit à 2 950 kWh/an, en baisse de 3 % par rapport à 2023.
+
+4. Sécurité et IoT Urbain
+Le réseau d’objets connectés (IoT) a été étendu avec l’installation de 3 200 capteurs supplémentaires, portant le total à 14 500. Ces capteurs mesurent la qualité de l’air, le bruit, la température et la fréquentation des espaces publics. Les alertes de sécurité automatisées (bruit anormal, pic de pollution, attroupement) ont augmenté de 11 %, traduisant une meilleure couverture des zones sensibles.
+Le taux d’incidents résolus en moins de 24 h s’élève à 91 %, contre 87 % en 2023.
+
+5. Engagement citoyen et Services numériques
+La plateforme “Paris Connect” compte désormais 410 000 utilisateurs actifs mensuels, soit une hausse de 28 %. Le taux de satisfaction global des citoyens concernant les services numériques atteint 84 %, en progression de 6 points. Plus de 7 500 signalements citoyens ont été traités automatiquement grâce à des algorithmes de classification.
+Le portail open data de la Ville enregistre une fréquentation record, avec 1,8 million de téléchargements de jeux de données (+14 %).
+
+6. Gestion des déchets et économie circulaire
+Le taux de recyclage s’élève à 52 %, contre 49 % l’année précédente. Les déchets non recyclables ont diminué de 5 %, tandis que la collecte sélective s’est améliorée de 7 %. Le nombre de points de collecte intelligents (équipés de capteurs de remplissage) atteint 2 400, soit une augmentation de 18 %. 
+Le projet “Zero Déchet 2030” a permis de réduire les déchets alimentaires de 1 200 tonnes sur un an.
+
+7. Conclusion et Perspectives
+L’année 2024 confirme l’efficacité des politiques publiques orientées données et durabilité. Les progrès observés dans la mobilité, la qualité de l’air et la performance énergétique démontrent la maturité du modèle parisien de Smart City. 
+Les priorités pour 2025 incluent : le renforcement du maillage IoT, la modernisation des infrastructures énergétiques, l’amélioration de l’accessibilité numérique, et la mise en œuvre d’un tableau de bord citoyen ouvert.
+
+— Fin du rapport —
